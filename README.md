@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winifred691
-- 👀 I’m interested in wordpress and all things wordpress
-- 🌱 I’m currently learning javascript and php
+- 👀 wordpress and frontend dev
+- 🌱 
 - 💞️ I’m looking to collaborate on something coming soon
 - 📫 How to reach me ... drop a message on linkedin (Winifred Omelogu)
 
