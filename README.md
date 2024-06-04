@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @winifred691
-- 👀 frontend dev and wordpress
+- 👀 product manager, frontend dev and wordpress
 - 🌱 
 - 💞️ I’m looking to collaborate on something coming soon
 - 📫 How to reach me ... drop a message on linkedin (Winifred Omelogu)
